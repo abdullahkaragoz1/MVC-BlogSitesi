@@ -1,0 +1,53 @@
+C:\Users\ThinkPad\Desktop\MVC-BlogSitesi-master\BlogSitesi.DAL\bin\Debug\BlogSitesi.DAL.dll.config
+C:\Users\ThinkPad\Desktop\MVC-BlogSitesi-master\BlogSitesi.DAL\bin\Debug\BlogSitesi.DAL.dll
+C:\Users\ThinkPad\Desktop\MVC-BlogSitesi-master\BlogSitesi.DAL\bin\Debug\BlogSitesi.DAL.pdb
+C:\Users\ThinkPad\Desktop\MVC-BlogSitesi-master\BlogSitesi.DAL\bin\Debug\BlogSitesi.Entities.dll
+C:\Users\ThinkPad\Desktop\MVC-BlogSitesi-master\BlogSitesi.DAL\bin\Debug\EntityFramework.dll
+C:\Users\ThinkPad\Desktop\MVC-BlogSitesi-master\BlogSitesi.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ThinkPad\Desktop\MVC-BlogSitesi-master\BlogSitesi.DAL\bin\Debug\BlogSitesi.Entities.pdb
+C:\Users\ThinkPad\Desktop\MVC-BlogSitesi-master\BlogSitesi.DAL\bin\Debug\EntityFramework.xml
+C:\Users\ThinkPad\Desktop\MVC-BlogSitesi-master\BlogSitesi.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ThinkPad\Desktop\MVC-BlogSitesi-master\BlogSitesi.DAL\obj\Debug\BlogSitesi.DAL.csprojAssemblyReference.cache
+C:\Users\ThinkPad\Desktop\MVC-BlogSitesi-master\BlogSitesi.DAL\obj\Debug\BlogSitesi.DAL.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad\Desktop\MVC-BlogSitesi-master\BlogSitesi.DAL\obj\Debug\BlogSitesi.DAL.csproj.CopyComplete
+C:\Users\ThinkPad\Desktop\MVC-BlogSitesi-master\BlogSitesi.DAL\obj\Debug\BlogSitesi.DAL.dll
+C:\Users\ThinkPad\Desktop\MVC-BlogSitesi-master\BlogSitesi.DAL\obj\Debug\BlogSitesi.DAL.pdb
+C:\Users\ThinkPad\Desktop\MVC-BlogSitesi-master\BlogSitesi.DAL\obj\Debug\BlogSitesi.DAL.Migrations.FirstMigration.resources
+C:\Users\ThinkPad\Desktop\MVC-BlogSitesi-master\BlogSitesi.DAL\obj\Debug\BlogSitesi.DAL.csproj.GenerateResource.cache
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-master\BlogSitesi.DAL\bin\Debug\BlogSitesi.DAL.dll.config
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-master\BlogSitesi.DAL\bin\Debug\BlogSitesi.DAL.dll
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-master\BlogSitesi.DAL\bin\Debug\BlogSitesi.DAL.pdb
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-master\BlogSitesi.DAL\bin\Debug\BlogSitesi.Entities.dll
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-master\BlogSitesi.DAL\bin\Debug\EntityFramework.dll
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-master\BlogSitesi.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-master\BlogSitesi.DAL\bin\Debug\BlogSitesi.Entities.pdb
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-master\BlogSitesi.DAL\bin\Debug\EntityFramework.xml
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-master\BlogSitesi.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-master\BlogSitesi.DAL\obj\Debug\BlogSitesi.DAL.Migrations.FirstMigration.resources
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-master\BlogSitesi.DAL\obj\Debug\BlogSitesi.DAL.csproj.GenerateResource.cache
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-master\BlogSitesi.DAL\obj\Debug\BlogSitesi.DAL.csproj.CopyComplete
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-master\BlogSitesi.DAL\obj\Debug\BlogSitesi.DAL.dll
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-master\BlogSitesi.DAL\obj\Debug\BlogSitesi.DAL.pdb
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-master\BlogSitesi.DAL\obj\Debug\BlogSitesi.DAL.csprojAssemblyReference.cache
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-master\BlogSitesi.DAL\obj\Debug\BlogSitesi.DAL.Migrations.PhoneNumberTypeChanged.resources
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-master\BlogSitesi.DAL\obj\Debug\BlogSitesi.DAL.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad\Desktop\MVC-BlogSitesi-master\BlogSitesi.DAL\obj\Debug\BlogSitesi.DAL.Migrations.PhoneNumberTypeChanged.resources
+C:\Users\ThinkPad\Desktop\MVC-BlogSitesi-master\BlogSitesi.DAL\obj\Debug\BlogSitesi.DAL.Migrations.AdminContactPageAdd.resources
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-masterV1\BlogSitesi.DAL\bin\Debug\BlogSitesi.DAL.dll.config
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-masterV1\BlogSitesi.DAL\bin\Debug\BlogSitesi.DAL.dll
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-masterV1\BlogSitesi.DAL\bin\Debug\BlogSitesi.DAL.pdb
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-masterV1\BlogSitesi.DAL\bin\Debug\BlogSitesi.Entities.dll
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-masterV1\BlogSitesi.DAL\bin\Debug\EntityFramework.dll
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-masterV1\BlogSitesi.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-masterV1\BlogSitesi.DAL\bin\Debug\BlogSitesi.Entities.pdb
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-masterV1\BlogSitesi.DAL\bin\Debug\EntityFramework.xml
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-masterV1\BlogSitesi.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-masterV1\BlogSitesi.DAL\obj\Debug\BlogSitesi.DAL.csprojAssemblyReference.cache
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-masterV1\BlogSitesi.DAL\obj\Debug\BlogSitesi.DAL.Migrations.FirstMigration.resources
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-masterV1\BlogSitesi.DAL\obj\Debug\BlogSitesi.DAL.Migrations.PhoneNumberTypeChanged.resources
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-masterV1\BlogSitesi.DAL\obj\Debug\BlogSitesi.DAL.Migrations.AdminContactPageAdd.resources
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-masterV1\BlogSitesi.DAL\obj\Debug\BlogSitesi.DAL.csproj.GenerateResource.cache
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-masterV1\BlogSitesi.DAL\obj\Debug\BlogSitesi.DAL.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-masterV1\BlogSitesi.DAL\obj\Debug\BlogSitesi.DAL.csproj.CopyComplete
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-masterV1\BlogSitesi.DAL\obj\Debug\BlogSitesi.DAL.dll
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-masterV1\BlogSitesi.DAL\obj\Debug\BlogSitesi.DAL.pdb

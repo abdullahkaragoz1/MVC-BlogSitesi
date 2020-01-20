@@ -1,0 +1,48 @@
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-master\BlogSitesi.Services\bin\Debug\BlogSitesi.Services.dll
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-master\BlogSitesi.Services\bin\Debug\BlogSitesi.Services.pdb
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-master\BlogSitesi.Services\bin\Debug\BlogSitesi.DAL.dll
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-master\BlogSitesi.Services\bin\Debug\BlogSitesi.Entities.dll
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-master\BlogSitesi.Services\bin\Debug\EntityFramework.dll
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-master\BlogSitesi.Services\bin\Debug\BlogSitesi.DAL.pdb
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-master\BlogSitesi.Services\bin\Debug\BlogSitesi.DAL.dll.config
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-master\BlogSitesi.Services\bin\Debug\BlogSitesi.Entities.pdb
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-master\BlogSitesi.Services\bin\Debug\EntityFramework.xml
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-master\BlogSitesi.Services\obj\Debug\BlogSitesi.Services.csprojAssemblyReference.cache
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-master\BlogSitesi.Services\obj\Debug\BlogSitesi.Services.csproj.CopyComplete
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-master\BlogSitesi.Services\obj\Debug\BlogSitesi.Services.dll
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-master\BlogSitesi.Services\obj\Debug\BlogSitesi.Services.pdb
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-master\BlogSitesi.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-master\BlogSitesi.Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-master\BlogSitesi.Services\obj\Debug\BlogSitesi.Services.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad\Desktop\MVC-BlogSitesi-master\BlogSitesi.Services\bin\Debug\BlogSitesi.Services.dll
+C:\Users\ThinkPad\Desktop\MVC-BlogSitesi-master\BlogSitesi.Services\bin\Debug\BlogSitesi.Services.pdb
+C:\Users\ThinkPad\Desktop\MVC-BlogSitesi-master\BlogSitesi.Services\bin\Debug\BlogSitesi.DAL.dll
+C:\Users\ThinkPad\Desktop\MVC-BlogSitesi-master\BlogSitesi.Services\bin\Debug\BlogSitesi.Entities.dll
+C:\Users\ThinkPad\Desktop\MVC-BlogSitesi-master\BlogSitesi.Services\bin\Debug\EntityFramework.dll
+C:\Users\ThinkPad\Desktop\MVC-BlogSitesi-master\BlogSitesi.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ThinkPad\Desktop\MVC-BlogSitesi-master\BlogSitesi.Services\bin\Debug\BlogSitesi.DAL.pdb
+C:\Users\ThinkPad\Desktop\MVC-BlogSitesi-master\BlogSitesi.Services\bin\Debug\BlogSitesi.DAL.dll.config
+C:\Users\ThinkPad\Desktop\MVC-BlogSitesi-master\BlogSitesi.Services\bin\Debug\BlogSitesi.Entities.pdb
+C:\Users\ThinkPad\Desktop\MVC-BlogSitesi-master\BlogSitesi.Services\bin\Debug\EntityFramework.xml
+C:\Users\ThinkPad\Desktop\MVC-BlogSitesi-master\BlogSitesi.Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ThinkPad\Desktop\MVC-BlogSitesi-master\BlogSitesi.Services\obj\Debug\BlogSitesi.Services.csprojAssemblyReference.cache
+C:\Users\ThinkPad\Desktop\MVC-BlogSitesi-master\BlogSitesi.Services\obj\Debug\BlogSitesi.Services.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad\Desktop\MVC-BlogSitesi-master\BlogSitesi.Services\obj\Debug\BlogSitesi.Services.csproj.CopyComplete
+C:\Users\ThinkPad\Desktop\MVC-BlogSitesi-master\BlogSitesi.Services\obj\Debug\BlogSitesi.Services.dll
+C:\Users\ThinkPad\Desktop\MVC-BlogSitesi-master\BlogSitesi.Services\obj\Debug\BlogSitesi.Services.pdb
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-masterV1\BlogSitesi.Services\bin\Debug\BlogSitesi.Services.dll
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-masterV1\BlogSitesi.Services\bin\Debug\BlogSitesi.Services.pdb
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-masterV1\BlogSitesi.Services\bin\Debug\BlogSitesi.DAL.dll
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-masterV1\BlogSitesi.Services\bin\Debug\BlogSitesi.Entities.dll
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-masterV1\BlogSitesi.Services\bin\Debug\EntityFramework.dll
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-masterV1\BlogSitesi.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-masterV1\BlogSitesi.Services\bin\Debug\BlogSitesi.DAL.pdb
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-masterV1\BlogSitesi.Services\bin\Debug\BlogSitesi.DAL.dll.config
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-masterV1\BlogSitesi.Services\bin\Debug\BlogSitesi.Entities.pdb
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-masterV1\BlogSitesi.Services\bin\Debug\EntityFramework.xml
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-masterV1\BlogSitesi.Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-masterV1\BlogSitesi.Services\obj\Debug\BlogSitesi.Services.csprojAssemblyReference.cache
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-masterV1\BlogSitesi.Services\obj\Debug\BlogSitesi.Services.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-masterV1\BlogSitesi.Services\obj\Debug\BlogSitesi.Services.csproj.CopyComplete
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-masterV1\BlogSitesi.Services\obj\Debug\BlogSitesi.Services.dll
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-masterV1\BlogSitesi.Services\obj\Debug\BlogSitesi.Services.pdb

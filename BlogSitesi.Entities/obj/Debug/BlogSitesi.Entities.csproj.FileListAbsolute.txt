@@ -1,0 +1,18 @@
+C:\Users\ThinkPad\Desktop\MVC-BlogSitesi-master\BlogSitesi.Entities\bin\Debug\BlogSitesi.Entities.dll
+C:\Users\ThinkPad\Desktop\MVC-BlogSitesi-master\BlogSitesi.Entities\bin\Debug\BlogSitesi.Entities.pdb
+C:\Users\ThinkPad\Desktop\MVC-BlogSitesi-master\BlogSitesi.Entities\obj\Debug\BlogSitesi.Entities.csprojAssemblyReference.cache
+C:\Users\ThinkPad\Desktop\MVC-BlogSitesi-master\BlogSitesi.Entities\obj\Debug\BlogSitesi.Entities.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad\Desktop\MVC-BlogSitesi-master\BlogSitesi.Entities\obj\Debug\BlogSitesi.Entities.dll
+C:\Users\ThinkPad\Desktop\MVC-BlogSitesi-master\BlogSitesi.Entities\obj\Debug\BlogSitesi.Entities.pdb
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-master\BlogSitesi.Entities\bin\Debug\BlogSitesi.Entities.dll
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-master\BlogSitesi.Entities\bin\Debug\BlogSitesi.Entities.pdb
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-master\BlogSitesi.Entities\obj\Debug\BlogSitesi.Entities.dll
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-master\BlogSitesi.Entities\obj\Debug\BlogSitesi.Entities.pdb
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-master\BlogSitesi.Entities\obj\Debug\BlogSitesi.Entities.csprojAssemblyReference.cache
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-master\BlogSitesi.Entities\obj\Debug\BlogSitesi.Entities.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-masterV1\BlogSitesi.Entities\bin\Debug\BlogSitesi.Entities.dll
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-masterV1\BlogSitesi.Entities\bin\Debug\BlogSitesi.Entities.pdb
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-masterV1\BlogSitesi.Entities\obj\Debug\BlogSitesi.Entities.csprojAssemblyReference.cache
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-masterV1\BlogSitesi.Entities\obj\Debug\BlogSitesi.Entities.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-masterV1\BlogSitesi.Entities\obj\Debug\BlogSitesi.Entities.dll
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-masterV1\BlogSitesi.Entities\obj\Debug\BlogSitesi.Entities.pdb

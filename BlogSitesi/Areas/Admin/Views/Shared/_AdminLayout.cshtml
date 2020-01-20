@@ -1,0 +1,30 @@
+﻿
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>@ViewBag.AdminTitle</title>
+
+    <link href="~/Content/lib/bootstrap/css/bootstrap.css" rel="stylesheet" />
+    @RenderSection("customAdminStyles", false)
+
+</head>
+<body class="container-fluid">
+    
+
+    @*Burası NavBar*@
+    @Html.Partial("_AdminNavBar")
+
+
+
+    <div class="container">
+        @RenderBody()
+    </div>
+
+    <script src="~/Content/lib/jQuery/jquery-3.3.1.js"></script>
+    <script src="~/Content/lib/bootstrap/js/bootstrap.js"></script>
+    <link href="~/Content/css/_LayoutStyleSheet.css" rel="stylesheet" />
+    @RenderSection("customAdminScripts", false)
+
+</body>
+</html>

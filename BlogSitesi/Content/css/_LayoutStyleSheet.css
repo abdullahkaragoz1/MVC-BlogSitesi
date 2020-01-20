@@ -1,0 +1,29 @@
+﻿#DunyaHalleriImage {
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+#NavBar {
+    margin-top: 25px;
+}
+
+#footer {
+    background-color: royalblue;
+    height: 40px;
+    text-align: center;
+}
+
+#footerli {
+    position: relative;
+    display: inline;
+    margin: 20px;
+}
+
+
+
+#footerul a {
+    list-style: none outside none;
+    font-family: Tahoma;
+    font-size: large;
+    color: white;
+}

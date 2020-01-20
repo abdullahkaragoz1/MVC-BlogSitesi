@@ -1,0 +1,378 @@
+C:\Users\abdullah.karagoz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\BlogSitesi.dll.config
+C:\Users\abdullah.karagoz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\BlogSitesi.dll
+C:\Users\abdullah.karagoz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\BlogSitesi.pdb
+C:\Users\abdullah.karagoz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\roslyn\csc.exe
+C:\Users\abdullah.karagoz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\roslyn\csc.exe.config
+C:\Users\abdullah.karagoz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\roslyn\csc.rsp
+C:\Users\abdullah.karagoz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\roslyn\csi.exe
+C:\Users\abdullah.karagoz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\roslyn\csi.exe.config
+C:\Users\abdullah.karagoz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\roslyn\csi.rsp
+C:\Users\abdullah.karagoz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\abdullah.karagoz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\abdullah.karagoz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\abdullah.karagoz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\abdullah.karagoz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\abdullah.karagoz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\abdullah.karagoz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\abdullah.karagoz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\abdullah.karagoz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\abdullah.karagoz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\abdullah.karagoz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\abdullah.karagoz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\roslyn\System.AppContext.dll
+C:\Users\abdullah.karagoz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\abdullah.karagoz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\roslyn\System.Console.dll
+C:\Users\abdullah.karagoz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\abdullah.karagoz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\abdullah.karagoz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\roslyn\System.IO.Compression.dll
+C:\Users\abdullah.karagoz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\abdullah.karagoz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\abdullah.karagoz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\abdullah.karagoz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\roslyn\System.IO.Pipes.dll
+C:\Users\abdullah.karagoz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\abdullah.karagoz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\abdullah.karagoz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\roslyn\System.Security.Claims.dll
+C:\Users\abdullah.karagoz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\abdullah.karagoz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\abdullah.karagoz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\abdullah.karagoz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\abdullah.karagoz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\abdullah.karagoz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\abdullah.karagoz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\roslyn\System.ValueTuple.dll
+C:\Users\abdullah.karagoz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\abdullah.karagoz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\abdullah.karagoz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\abdullah.karagoz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\abdullah.karagoz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\roslyn\vbc.exe
+C:\Users\abdullah.karagoz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\roslyn\vbc.exe.config
+C:\Users\abdullah.karagoz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\roslyn\vbc.rsp
+C:\Users\abdullah.karagoz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\roslyn\VBCSCompiler.exe
+C:\Users\abdullah.karagoz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\abdullah.karagoz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\abdullah.karagoz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\abdullah.karagoz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\System.Web.Helpers.dll
+C:\Users\abdullah.karagoz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\System.Web.Mvc.dll
+C:\Users\abdullah.karagoz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\System.Web.Razor.dll
+C:\Users\abdullah.karagoz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\System.Web.Webpages.Deployment.dll
+C:\Users\abdullah.karagoz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\System.Web.Webpages.dll
+C:\Users\abdullah.karagoz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\System.Web.Webpages.Razor.dll
+C:\Users\abdullah.karagoz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\System.Web.Razor.xml
+C:\Users\abdullah.karagoz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\System.Web.Webpages.xml
+C:\Users\abdullah.karagoz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\System.Web.Webpages.Deployment.xml
+C:\Users\abdullah.karagoz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\System.Web.Webpages.Razor.xml
+C:\Users\abdullah.karagoz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\System.Web.Helpers.xml
+C:\Users\abdullah.karagoz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\System.Web.Mvc.xml
+C:\Users\abdullah.karagoz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\abdullah.karagoz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\obj\Debug\BlogSitesi.csprojAssemblyReference.cache
+C:\Users\abdullah.karagoz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\obj\Debug\BlogSitesi.csproj.CoreCompileInputs.cache
+C:\Users\abdullah.karagoz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\obj\Debug\BlogSitesi.csproj.CopyComplete
+C:\Users\abdullah.karagoz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\obj\Debug\BlogSitesi.dll
+C:\Users\abdullah.karagoz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\obj\Debug\BlogSitesi.pdb
+C:\Users\Abdkrgz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\BlogSitesi.dll.config
+C:\Users\Abdkrgz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\BlogSitesi.dll
+C:\Users\Abdkrgz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\BlogSitesi.pdb
+C:\Users\Abdkrgz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\roslyn\csc.exe
+C:\Users\Abdkrgz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\roslyn\csc.exe.config
+C:\Users\Abdkrgz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\roslyn\csc.rsp
+C:\Users\Abdkrgz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\roslyn\csi.exe
+C:\Users\Abdkrgz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\roslyn\csi.exe.config
+C:\Users\Abdkrgz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\roslyn\csi.rsp
+C:\Users\Abdkrgz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Abdkrgz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Abdkrgz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Abdkrgz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Abdkrgz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Abdkrgz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Abdkrgz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Abdkrgz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Abdkrgz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Abdkrgz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Abdkrgz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Abdkrgz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\roslyn\System.AppContext.dll
+C:\Users\Abdkrgz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Abdkrgz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\roslyn\System.Console.dll
+C:\Users\Abdkrgz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Abdkrgz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Abdkrgz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\roslyn\System.IO.Compression.dll
+C:\Users\Abdkrgz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Abdkrgz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Abdkrgz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Abdkrgz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Abdkrgz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Abdkrgz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Abdkrgz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\roslyn\System.Security.Claims.dll
+C:\Users\Abdkrgz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Abdkrgz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Abdkrgz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Abdkrgz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Abdkrgz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Abdkrgz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Abdkrgz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\roslyn\System.ValueTuple.dll
+C:\Users\Abdkrgz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Abdkrgz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Abdkrgz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Abdkrgz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Abdkrgz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\roslyn\vbc.exe
+C:\Users\Abdkrgz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\roslyn\vbc.exe.config
+C:\Users\Abdkrgz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\roslyn\vbc.rsp
+C:\Users\Abdkrgz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\roslyn\VBCSCompiler.exe
+C:\Users\Abdkrgz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Abdkrgz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Abdkrgz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Abdkrgz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\System.Web.Helpers.dll
+C:\Users\Abdkrgz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\System.Web.Mvc.dll
+C:\Users\Abdkrgz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\System.Web.Razor.dll
+C:\Users\Abdkrgz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Abdkrgz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\System.Web.Webpages.dll
+C:\Users\Abdkrgz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\System.Web.Webpages.Razor.dll
+C:\Users\Abdkrgz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\System.Web.Razor.xml
+C:\Users\Abdkrgz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\System.Web.Webpages.xml
+C:\Users\Abdkrgz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Abdkrgz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\System.Web.Webpages.Razor.xml
+C:\Users\Abdkrgz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\System.Web.Helpers.xml
+C:\Users\Abdkrgz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\System.Web.Mvc.xml
+C:\Users\Abdkrgz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Abdkrgz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\obj\Debug\BlogSitesi.csprojAssemblyReference.cache
+C:\Users\Abdkrgz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\obj\Debug\BlogSitesi.csproj.CoreCompileInputs.cache
+C:\Users\Abdkrgz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\obj\Debug\BlogSitesi.csproj.CopyComplete
+C:\Users\Abdkrgz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\obj\Debug\BlogSitesi.dll
+C:\Users\Abdkrgz\OneDrive\Aktif Projeler\MVC-BlogSitesi\BlogSitesi\obj\Debug\BlogSitesi.pdb
+C:\Users\ThinkPad\Desktop\MVC-BlogSitesi-master\BlogSitesi\bin\BlogSitesi.dll.config
+C:\Users\ThinkPad\Desktop\MVC-BlogSitesi-master\BlogSitesi\bin\BlogSitesi.dll
+C:\Users\ThinkPad\Desktop\MVC-BlogSitesi-master\BlogSitesi\bin\BlogSitesi.pdb
+C:\Users\ThinkPad\Desktop\MVC-BlogSitesi-master\BlogSitesi\bin\roslyn\csc.exe
+C:\Users\ThinkPad\Desktop\MVC-BlogSitesi-master\BlogSitesi\bin\roslyn\csc.exe.config
+C:\Users\ThinkPad\Desktop\MVC-BlogSitesi-master\BlogSitesi\bin\roslyn\csc.rsp
+C:\Users\ThinkPad\Desktop\MVC-BlogSitesi-master\BlogSitesi\bin\roslyn\csi.exe
+C:\Users\ThinkPad\Desktop\MVC-BlogSitesi-master\BlogSitesi\bin\roslyn\csi.exe.config
+C:\Users\ThinkPad\Desktop\MVC-BlogSitesi-master\BlogSitesi\bin\roslyn\csi.rsp
+C:\Users\ThinkPad\Desktop\MVC-BlogSitesi-master\BlogSitesi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ThinkPad\Desktop\MVC-BlogSitesi-master\BlogSitesi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ThinkPad\Desktop\MVC-BlogSitesi-master\BlogSitesi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ThinkPad\Desktop\MVC-BlogSitesi-master\BlogSitesi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ThinkPad\Desktop\MVC-BlogSitesi-master\BlogSitesi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ThinkPad\Desktop\MVC-BlogSitesi-master\BlogSitesi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ThinkPad\Desktop\MVC-BlogSitesi-master\BlogSitesi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ThinkPad\Desktop\MVC-BlogSitesi-master\BlogSitesi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ThinkPad\Desktop\MVC-BlogSitesi-master\BlogSitesi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ThinkPad\Desktop\MVC-BlogSitesi-master\BlogSitesi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ThinkPad\Desktop\MVC-BlogSitesi-master\BlogSitesi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ThinkPad\Desktop\MVC-BlogSitesi-master\BlogSitesi\bin\roslyn\System.AppContext.dll
+C:\Users\ThinkPad\Desktop\MVC-BlogSitesi-master\BlogSitesi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ThinkPad\Desktop\MVC-BlogSitesi-master\BlogSitesi\bin\roslyn\System.Console.dll
+C:\Users\ThinkPad\Desktop\MVC-BlogSitesi-master\BlogSitesi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ThinkPad\Desktop\MVC-BlogSitesi-master\BlogSitesi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ThinkPad\Desktop\MVC-BlogSitesi-master\BlogSitesi\bin\roslyn\System.IO.Compression.dll
+C:\Users\ThinkPad\Desktop\MVC-BlogSitesi-master\BlogSitesi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ThinkPad\Desktop\MVC-BlogSitesi-master\BlogSitesi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ThinkPad\Desktop\MVC-BlogSitesi-master\BlogSitesi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\ThinkPad\Desktop\MVC-BlogSitesi-master\BlogSitesi\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ThinkPad\Desktop\MVC-BlogSitesi-master\BlogSitesi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ThinkPad\Desktop\MVC-BlogSitesi-master\BlogSitesi\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ThinkPad\Desktop\MVC-BlogSitesi-master\BlogSitesi\bin\roslyn\System.Security.Claims.dll
+C:\Users\ThinkPad\Desktop\MVC-BlogSitesi-master\BlogSitesi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ThinkPad\Desktop\MVC-BlogSitesi-master\BlogSitesi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ThinkPad\Desktop\MVC-BlogSitesi-master\BlogSitesi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ThinkPad\Desktop\MVC-BlogSitesi-master\BlogSitesi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ThinkPad\Desktop\MVC-BlogSitesi-master\BlogSitesi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ThinkPad\Desktop\MVC-BlogSitesi-master\BlogSitesi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ThinkPad\Desktop\MVC-BlogSitesi-master\BlogSitesi\bin\roslyn\System.ValueTuple.dll
+C:\Users\ThinkPad\Desktop\MVC-BlogSitesi-master\BlogSitesi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ThinkPad\Desktop\MVC-BlogSitesi-master\BlogSitesi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ThinkPad\Desktop\MVC-BlogSitesi-master\BlogSitesi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ThinkPad\Desktop\MVC-BlogSitesi-master\BlogSitesi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ThinkPad\Desktop\MVC-BlogSitesi-master\BlogSitesi\bin\roslyn\vbc.exe
+C:\Users\ThinkPad\Desktop\MVC-BlogSitesi-master\BlogSitesi\bin\roslyn\vbc.exe.config
+C:\Users\ThinkPad\Desktop\MVC-BlogSitesi-master\BlogSitesi\bin\roslyn\vbc.rsp
+C:\Users\ThinkPad\Desktop\MVC-BlogSitesi-master\BlogSitesi\bin\roslyn\VBCSCompiler.exe
+C:\Users\ThinkPad\Desktop\MVC-BlogSitesi-master\BlogSitesi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ThinkPad\Desktop\MVC-BlogSitesi-master\BlogSitesi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ThinkPad\Desktop\MVC-BlogSitesi-master\BlogSitesi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ThinkPad\Desktop\MVC-BlogSitesi-master\BlogSitesi\bin\System.Web.Helpers.dll
+C:\Users\ThinkPad\Desktop\MVC-BlogSitesi-master\BlogSitesi\bin\System.Web.Mvc.dll
+C:\Users\ThinkPad\Desktop\MVC-BlogSitesi-master\BlogSitesi\bin\System.Web.Razor.dll
+C:\Users\ThinkPad\Desktop\MVC-BlogSitesi-master\BlogSitesi\bin\System.Web.Webpages.Deployment.dll
+C:\Users\ThinkPad\Desktop\MVC-BlogSitesi-master\BlogSitesi\bin\System.Web.Webpages.dll
+C:\Users\ThinkPad\Desktop\MVC-BlogSitesi-master\BlogSitesi\bin\System.Web.Webpages.Razor.dll
+C:\Users\ThinkPad\Desktop\MVC-BlogSitesi-master\BlogSitesi\bin\System.Web.Razor.xml
+C:\Users\ThinkPad\Desktop\MVC-BlogSitesi-master\BlogSitesi\bin\System.Web.Webpages.xml
+C:\Users\ThinkPad\Desktop\MVC-BlogSitesi-master\BlogSitesi\bin\System.Web.Webpages.Deployment.xml
+C:\Users\ThinkPad\Desktop\MVC-BlogSitesi-master\BlogSitesi\bin\System.Web.Webpages.Razor.xml
+C:\Users\ThinkPad\Desktop\MVC-BlogSitesi-master\BlogSitesi\bin\System.Web.Helpers.xml
+C:\Users\ThinkPad\Desktop\MVC-BlogSitesi-master\BlogSitesi\bin\System.Web.Mvc.xml
+C:\Users\ThinkPad\Desktop\MVC-BlogSitesi-master\BlogSitesi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ThinkPad\Desktop\MVC-BlogSitesi-master\BlogSitesi\obj\Debug\BlogSitesi.csprojAssemblyReference.cache
+C:\Users\ThinkPad\Desktop\MVC-BlogSitesi-master\BlogSitesi\obj\Debug\BlogSitesi.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad\Desktop\MVC-BlogSitesi-master\BlogSitesi\obj\Debug\BlogSitesi.csproj.CopyComplete
+C:\Users\ThinkPad\Desktop\MVC-BlogSitesi-master\BlogSitesi\obj\Debug\BlogSitesi.dll
+C:\Users\ThinkPad\Desktop\MVC-BlogSitesi-master\BlogSitesi\obj\Debug\BlogSitesi.pdb
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-master\BlogSitesi\bin\BlogSitesi.dll.config
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-master\BlogSitesi\bin\BlogSitesi.dll
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-master\BlogSitesi\bin\BlogSitesi.pdb
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-master\BlogSitesi\bin\roslyn\csc.exe
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-master\BlogSitesi\bin\roslyn\csc.exe.config
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-master\BlogSitesi\bin\roslyn\csc.rsp
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-master\BlogSitesi\bin\roslyn\csi.exe
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-master\BlogSitesi\bin\roslyn\csi.exe.config
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-master\BlogSitesi\bin\roslyn\csi.rsp
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-master\BlogSitesi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-master\BlogSitesi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-master\BlogSitesi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-master\BlogSitesi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-master\BlogSitesi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-master\BlogSitesi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-master\BlogSitesi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-master\BlogSitesi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-master\BlogSitesi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-master\BlogSitesi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-master\BlogSitesi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-master\BlogSitesi\bin\roslyn\System.AppContext.dll
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-master\BlogSitesi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-master\BlogSitesi\bin\roslyn\System.Console.dll
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-master\BlogSitesi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-master\BlogSitesi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-master\BlogSitesi\bin\roslyn\System.IO.Compression.dll
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-master\BlogSitesi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-master\BlogSitesi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-master\BlogSitesi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-master\BlogSitesi\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-master\BlogSitesi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-master\BlogSitesi\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-master\BlogSitesi\bin\roslyn\System.Security.Claims.dll
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-master\BlogSitesi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-master\BlogSitesi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-master\BlogSitesi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-master\BlogSitesi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-master\BlogSitesi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-master\BlogSitesi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-master\BlogSitesi\bin\roslyn\System.ValueTuple.dll
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-master\BlogSitesi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-master\BlogSitesi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-master\BlogSitesi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-master\BlogSitesi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-master\BlogSitesi\bin\roslyn\vbc.exe
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-master\BlogSitesi\bin\roslyn\vbc.exe.config
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-master\BlogSitesi\bin\roslyn\vbc.rsp
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-master\BlogSitesi\bin\roslyn\VBCSCompiler.exe
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-master\BlogSitesi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-master\BlogSitesi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-master\BlogSitesi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-master\BlogSitesi\bin\System.Web.Helpers.dll
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-master\BlogSitesi\bin\System.Web.Mvc.dll
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-master\BlogSitesi\bin\System.Web.Razor.dll
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-master\BlogSitesi\bin\System.Web.Webpages.Deployment.dll
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-master\BlogSitesi\bin\System.Web.Webpages.dll
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-master\BlogSitesi\bin\System.Web.Webpages.Razor.dll
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-master\BlogSitesi\bin\System.Web.Razor.xml
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-master\BlogSitesi\bin\System.Web.Webpages.xml
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-master\BlogSitesi\bin\System.Web.Webpages.Deployment.xml
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-master\BlogSitesi\bin\System.Web.Webpages.Razor.xml
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-master\BlogSitesi\bin\System.Web.Helpers.xml
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-master\BlogSitesi\bin\System.Web.Mvc.xml
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-master\BlogSitesi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-master\BlogSitesi\obj\Debug\BlogSitesi.csprojAssemblyReference.cache
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-master\BlogSitesi\obj\Debug\BlogSitesi.csproj.CopyComplete
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-master\BlogSitesi\obj\Debug\BlogSitesi.dll
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-master\BlogSitesi\obj\Debug\BlogSitesi.pdb
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-master\BlogSitesi\bin\BlogSitesi.Entities.dll
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-master\BlogSitesi\bin\BlogSitesi.Services.dll
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-master\BlogSitesi\bin\BlogSitesi.DAL.dll
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-master\BlogSitesi\bin\EntityFramework.dll
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-master\BlogSitesi\bin\BlogSitesi.Entities.pdb
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-master\BlogSitesi\bin\BlogSitesi.Services.pdb
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-master\BlogSitesi\bin\BlogSitesi.DAL.pdb
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-master\BlogSitesi\bin\BlogSitesi.DAL.dll.config
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-master\BlogSitesi\bin\EntityFramework.xml
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-master\BlogSitesi\bin\EntityFramework.SqlServer.dll
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-master\BlogSitesi\bin\EntityFramework.SqlServer.xml
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-master\BlogSitesi\obj\Debug\BlogSitesi.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad\Desktop\MVC-BlogSitesi-master\BlogSitesi\bin\BlogSitesi.Entities.dll
+C:\Users\ThinkPad\Desktop\MVC-BlogSitesi-master\BlogSitesi\bin\BlogSitesi.Services.dll
+C:\Users\ThinkPad\Desktop\MVC-BlogSitesi-master\BlogSitesi\bin\BlogSitesi.DAL.dll
+C:\Users\ThinkPad\Desktop\MVC-BlogSitesi-master\BlogSitesi\bin\EntityFramework.dll
+C:\Users\ThinkPad\Desktop\MVC-BlogSitesi-master\BlogSitesi\bin\EntityFramework.SqlServer.dll
+C:\Users\ThinkPad\Desktop\MVC-BlogSitesi-master\BlogSitesi\bin\BlogSitesi.Entities.pdb
+C:\Users\ThinkPad\Desktop\MVC-BlogSitesi-master\BlogSitesi\bin\BlogSitesi.Services.pdb
+C:\Users\ThinkPad\Desktop\MVC-BlogSitesi-master\BlogSitesi\bin\BlogSitesi.DAL.pdb
+C:\Users\ThinkPad\Desktop\MVC-BlogSitesi-master\BlogSitesi\bin\BlogSitesi.DAL.dll.config
+C:\Users\ThinkPad\Desktop\MVC-BlogSitesi-master\BlogSitesi\bin\EntityFramework.xml
+C:\Users\ThinkPad\Desktop\MVC-BlogSitesi-master\BlogSitesi\bin\EntityFramework.SqlServer.xml
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-masterV1\BlogSitesi\bin\BlogSitesi.dll.config
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-masterV1\BlogSitesi\bin\BlogSitesi.dll
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-masterV1\BlogSitesi\bin\BlogSitesi.pdb
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-masterV1\BlogSitesi\bin\roslyn\csc.exe
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-masterV1\BlogSitesi\bin\roslyn\csc.exe.config
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-masterV1\BlogSitesi\bin\roslyn\csc.rsp
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-masterV1\BlogSitesi\bin\roslyn\csi.exe
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-masterV1\BlogSitesi\bin\roslyn\csi.exe.config
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-masterV1\BlogSitesi\bin\roslyn\csi.rsp
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-masterV1\BlogSitesi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-masterV1\BlogSitesi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-masterV1\BlogSitesi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-masterV1\BlogSitesi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-masterV1\BlogSitesi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-masterV1\BlogSitesi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-masterV1\BlogSitesi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-masterV1\BlogSitesi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-masterV1\BlogSitesi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-masterV1\BlogSitesi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-masterV1\BlogSitesi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-masterV1\BlogSitesi\bin\roslyn\System.AppContext.dll
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-masterV1\BlogSitesi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-masterV1\BlogSitesi\bin\roslyn\System.Console.dll
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-masterV1\BlogSitesi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-masterV1\BlogSitesi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-masterV1\BlogSitesi\bin\roslyn\System.IO.Compression.dll
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-masterV1\BlogSitesi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-masterV1\BlogSitesi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-masterV1\BlogSitesi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-masterV1\BlogSitesi\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-masterV1\BlogSitesi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-masterV1\BlogSitesi\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-masterV1\BlogSitesi\bin\roslyn\System.Security.Claims.dll
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-masterV1\BlogSitesi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-masterV1\BlogSitesi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-masterV1\BlogSitesi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-masterV1\BlogSitesi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-masterV1\BlogSitesi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-masterV1\BlogSitesi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-masterV1\BlogSitesi\bin\roslyn\System.ValueTuple.dll
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-masterV1\BlogSitesi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-masterV1\BlogSitesi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-masterV1\BlogSitesi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-masterV1\BlogSitesi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-masterV1\BlogSitesi\bin\roslyn\vbc.exe
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-masterV1\BlogSitesi\bin\roslyn\vbc.exe.config
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-masterV1\BlogSitesi\bin\roslyn\vbc.rsp
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-masterV1\BlogSitesi\bin\roslyn\VBCSCompiler.exe
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-masterV1\BlogSitesi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-masterV1\BlogSitesi\bin\BlogSitesi.Entities.dll
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-masterV1\BlogSitesi\bin\BlogSitesi.Services.dll
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-masterV1\BlogSitesi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-masterV1\BlogSitesi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-masterV1\BlogSitesi\bin\System.Web.Helpers.dll
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-masterV1\BlogSitesi\bin\System.Web.Mvc.dll
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-masterV1\BlogSitesi\bin\System.Web.Razor.dll
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-masterV1\BlogSitesi\bin\System.Web.Webpages.Deployment.dll
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-masterV1\BlogSitesi\bin\System.Web.Webpages.dll
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-masterV1\BlogSitesi\bin\System.Web.Webpages.Razor.dll
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-masterV1\BlogSitesi\bin\BlogSitesi.DAL.dll
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-masterV1\BlogSitesi\bin\EntityFramework.dll
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-masterV1\BlogSitesi\bin\EntityFramework.SqlServer.dll
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-masterV1\BlogSitesi\bin\BlogSitesi.Entities.pdb
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-masterV1\BlogSitesi\bin\BlogSitesi.Services.pdb
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-masterV1\BlogSitesi\bin\System.Web.Razor.xml
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-masterV1\BlogSitesi\bin\System.Web.Webpages.xml
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-masterV1\BlogSitesi\bin\System.Web.Webpages.Deployment.xml
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-masterV1\BlogSitesi\bin\System.Web.Webpages.Razor.xml
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-masterV1\BlogSitesi\bin\System.Web.Helpers.xml
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-masterV1\BlogSitesi\bin\System.Web.Mvc.xml
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-masterV1\BlogSitesi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-masterV1\BlogSitesi\bin\BlogSitesi.DAL.pdb
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-masterV1\BlogSitesi\bin\BlogSitesi.DAL.dll.config
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-masterV1\BlogSitesi\bin\EntityFramework.xml
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-masterV1\BlogSitesi\bin\EntityFramework.SqlServer.xml
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-masterV1\BlogSitesi\obj\Debug\BlogSitesi.csprojAssemblyReference.cache
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-masterV1\BlogSitesi\obj\Debug\BlogSitesi.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-masterV1\BlogSitesi\obj\Debug\BlogSitesi.csproj.CopyComplete
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-masterV1\BlogSitesi\obj\Debug\BlogSitesi.dll
+C:\Users\ThinkPad\OneDrive\Aktif Projeler\MVC-BlogSitesi-masterV1\BlogSitesi\obj\Debug\BlogSitesi.pdb

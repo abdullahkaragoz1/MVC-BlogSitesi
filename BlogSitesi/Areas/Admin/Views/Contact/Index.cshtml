@@ -1,0 +1,20 @@
+﻿@model ContactViewModel
+
+@{
+    ViewBag.AdminTitle = "İletişim Sayfasındaki İçerikler";
+}
+
+<hr />
+
+<a href="@Url.Action("Edit")" class="btn btn-outline-primary btn-block">Düzenle</a>
+<br />
+<div class="container" style="text-align:center">
+    <h2>İletişim Sayfasındaki İçerikler</h2>
+    <ul class="list-unstyled">
+        <li><b>Adı: </b>@Model.FullName</li>
+        <li><b>Mail Adresi: </b>@Model.EmailAddress </li>
+        <li><b>İletişim numarası: </b>@Model.PhoneNumber</li>
+    </ul>
+
+</div>
+

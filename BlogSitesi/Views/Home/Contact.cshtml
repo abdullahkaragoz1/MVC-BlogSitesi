@@ -1,0 +1,17 @@
+﻿@model BlogSitesi.Models.ContactViewModel
+@{
+    ViewBag.Title = "İletişim Bilgileri";
+
+}
+
+<div class="container" style="text-align:center">
+    <h2>@ViewBag.Title</h2>
+    <ul class="list-unstyled">
+        <li><b>Adı: </b>@Model.FullName</li>
+        <li><b>Mail Adresi: </b>@Model.EmailAddress </li>
+        <li><b>İletişim numarası: </b>@Model.PhoneNumber</li>
+    </ul>
+
+</div>
+
+

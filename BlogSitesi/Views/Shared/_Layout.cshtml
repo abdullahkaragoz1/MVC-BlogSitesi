@@ -1,0 +1,31 @@
+﻿<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewBag.Title</title>
+    <link href="~/Content/lib/bootstrap/css/bootstrap.css" rel="stylesheet" />
+    @RenderSection("customStyles",false)
+
+</head>
+<body>
+
+    <div class="container-fluid">
+
+        @*Header*@
+        @Html.Partial("_Header")
+        @*For image logo*@
+        <div class="container" id="DunyaHalleriImage"><a href="@Url.Action("Index","Home")"><img src="~/Content/images/1.png" /></a></div>
+        @*NAVBAR*@
+        @Html.Partial("_Navbar")
+
+        @RenderBody()
+        <!-- Footer -->
+        @Html.Partial("_Footer")
+
+    </div>
+    <script src="~/Content/lib/jQuery/jquery-3.3.1.js"></script>
+    <script src="~/Content/lib/bootstrap/js/bootstrap.js"></script>
+<link href="~/Content/css/_LayoutStyleSheet.css" rel="stylesheet" />
+@RenderSection("customScripts",false)
+</body>
+</html>
